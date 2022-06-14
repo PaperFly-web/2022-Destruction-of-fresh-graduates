@@ -1,5 +1,6 @@
 # 2022-Destruction-of-fresh-graduates
 2022毁约应届生公司名单
+欢迎提交未包含的名单
 | 公司名     | 毁约时间 | 性质                        | 链接1                                                        |
 | ---------- | -------- | --------------------------- | :----------------------------------------------------------- |
 | 有赞       | 3月      | 毁三方                      | <https://maimai.cn/web/gossip_detail/30090542?src=app&webid=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MzAwOTA1NDIsInUiOjIzMDI3MjIxOSwiZWdpZCI6IjcyYTZkNTcxMzg4ZDRkNWE4ZjU4NGU1M2EzNTRjMTIxIn0.gx1ES6OjUyGUUBUpLZMbAZogPZNSM6vOqN3TT3KDeFw&share_channel=2> |
